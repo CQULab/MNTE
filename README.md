@@ -19,8 +19,11 @@ We recommended the following dependencies.
 
 Please preprocess dataset to appropriate the input format or you can download the data we preprocessed from the pan.baidu.com.
 ```bash
-# The data is uploading.
-link: 
+# f30k
+link：https://pan.baidu.com/s/1sjPM1iRXAo30TM4gWQjtSQ 
+password：47zx
+# coco
+link:
 password: 
 ```
 
