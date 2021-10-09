@@ -23,8 +23,8 @@ Please preprocess dataset to appropriate the input format or you can download th
 link：https://pan.baidu.com/s/1sjPM1iRXAo30TM4gWQjtSQ 
 password：47zx
 # coco
-link:
-password: 
+link: https://pan.baidu.com/s/1zLEmWuVZItQaZ67FaikFug
+password: w1an
 ```
 
 ## 3. Training new models
