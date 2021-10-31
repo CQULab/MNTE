@@ -1,7 +1,7 @@
 ##  MULTI-LEVEL NETWORK BASED ON TRANSFORMER ENCODER FOR FINE-GRAINED IMAGE-TEXT MATCHING
 
 The framework of proposed method is shown as follows.
-!(main)[https://raw.githubusercontent.com/CQULab/MNTE/main/figure/main.png]
+![main][https://raw.githubusercontent.com/CQULab/MNTE/main/figure/main.png]
 
 ## 1. Environment
 
