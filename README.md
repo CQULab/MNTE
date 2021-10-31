@@ -1,5 +1,8 @@
 ##  MULTI-LEVEL NETWORK BASED ON TRANSFORMER ENCODER FOR FINE-GRAINED IMAGE-TEXT MATCHING
 
+The framework of proposed method is shown as follows.
+
+
 ## 1. Environment
 
 This is a demo on the datasets of MSCOCO and Flickr30k for our paper. We finish experiments on a server with one NVIDIA GeForce 1080Ti GPU.
@@ -19,8 +22,12 @@ We recommended the following dependencies.
 
 Please preprocess dataset to appropriate the input format or you can download the data we preprocessed from the pan.baidu.com.
 ```bash
-link: https://pan.baidu.com
-password: 
+# f30k
+link：https://pan.baidu.com/s/1sjPM1iRXAo30TM4gWQjtSQ 
+password：47zx
+# coco
+link: https://pan.baidu.com/s/1zLEmWuVZItQaZ67FaikFug
+password: w1an
 ```
 
 ## 3. Training new models

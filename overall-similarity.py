@@ -81,8 +81,8 @@ if __name__ == '__main__':
 
     # rate of subnetwork
     rate_l_r = 1
-    rate_d = 0
-    rate_g = 0
+    rate_d = 2
+    rate_g = 2
 
     calc_g_l_r_d(path_global=path_g, path_l_r=path_l_r, path_d=path_d, rate_l_r=rate_l_r, rate_d=rate_d, rate_g=rate_g)
 
